@@ -8,3 +8,6 @@ This repository provides a Byte-Pair Encoding (BPE) tokenizer that can be traine
 * Fast and optimized using Hugging Face’s tokenizers.
 * Scalable and adaptable for different linguistic datasets.
 * Easy integration into NLP pipelines.
+
+# Example Usage
+This tokenizer was used to create a Santali (Olchiki script) tokenizer. Check out the implementation here: (https://github.com/rohitmahali01/Santali-Tokenizer/tree/main)
