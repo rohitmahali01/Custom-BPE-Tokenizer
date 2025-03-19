@@ -16,3 +16,6 @@ This tokenizer was used to create a Santali (Olchiki script) tokenizer. Check ou
 # Text Corpus of Your Specific Language
 * The dataset must be encoded in UTF-8 to handle special characters, diacritics, or unique scripts.
 * It should contain natural, diverse, and large samples of text in the target language to ensure good tokenization
+
+# Documentations are still being updated.....
+# This tool will always be in development to make it adhere to modern optimized frameworks . 
