@@ -9,5 +9,10 @@ This repository provides a Byte-Pair Encoding (BPE) tokenizer that can be traine
 * Scalable and adaptable for different linguistic datasets.
 * Easy integration into NLP pipelines.
 
+# Mandatory Prerequisite for this tool
+# Text Corpus of Your Specific Language
+* The dataset must be encoded in UTF-8 to handle special characters, diacritics, or unique scripts.
+* It should contain natural, diverse, and large samples of text in the target language to ensure good tokenization
+
 # Example Usage
 This tokenizer was used to create a Santali (Olchiki script) tokenizer. Check out the implementation here: (https://github.com/rohitmahali01/Santali-Tokenizer/tree/main)
