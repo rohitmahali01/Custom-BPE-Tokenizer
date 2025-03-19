@@ -1,3 +1,5 @@
+# This code was Developed and Tested in google Colab.
+
 # -*- coding: utf-8 -*-
 """Custom BPE Tokenizer for Any Language"""
 
